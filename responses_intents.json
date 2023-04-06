@@ -1,0 +1,6 @@
+{
+  "intents": [
+    {"sname": "intent.hello", "sresponses": null, "sresponse": "Greetings.", "keywords": ["hello", "greeting", "greetings", "hi", "yo", "whatup", "wassup"]},
+    {"sname": "intent.favfood", "sresponses": null, "sresponse": "My favourite food is robotic bolts.", "keywords": ["favourite", "food", "what", "is", "your"]}
+  ]
+}
